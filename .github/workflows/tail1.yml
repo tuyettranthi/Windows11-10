@@ -3,6 +3,9 @@ name: Ngrok Remote Desktop Win11
 on: 
   workflow_dispatch:
     inputs:
+      ngrok:
+        description: 'ngrok auth token'
+        required: true
       link_iso:
         description: 'dán link iso của ae vô đây'
         required: true
