@@ -1,4 +1,4 @@
-name: highspecwindows tailscale
+name: Ngrok Remote Desktop Win11
 
 on: 
   workflow_dispatch:
