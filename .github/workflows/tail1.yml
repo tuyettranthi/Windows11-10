@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: chuẩn bị phần mềm
         run: | 
-         sudo apt install qemu-kvm cpulimit wget -y | sudo tee /etc/apt/sources.list.d/ngrok.list && sudo apt update && sudo apt install ngrok -y   
+         sudo apt install qemu-kvm cpulimit wget -y | sudo tee /etc/apt/sources.list.d/ngrok.list && sudo apt update -y && sudo apt install ngrok -y   
       - name: cài win và khởi chạy
         run: |
           sudo chmod 666 /dev/kvm
