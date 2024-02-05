@@ -1,7 +1,7 @@
 # Windows XP & Windows Server - Windows 11
-
-
-
+Discord : https://dsc.gg/servertipacvn
+Youtube : https://youtube.com/@snipavn205
+Ủng Hộ Kênh Mik
 
 #File Iso Để Cài (Hãy Sao Chép Rồi Dán Vào Ko Đc Ấn Vào Link).
 
