@@ -1,4 +1,4 @@
-name: highspecwindows tailscale
+name: 4core/16gbram/60gbssd (nhanh hết time) | Tailscale
 
 on: 
   workflow_dispatch:
