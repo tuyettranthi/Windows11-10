@@ -1,5 +1,4 @@
-name: 4core/12
-gbram/60gbssd (nhanh hết time) | Tailscale
+name: 4core/12gbram/60gbssd (nhanh hết time) | Tailscale
 
 on: 
   workflow_dispatch:
