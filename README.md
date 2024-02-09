@@ -45,6 +45,9 @@ https://computernewb.com/isos/windows/Windows%2010%20LTSB%20x64.iso
 -Windows11 (File Bỏ Qua TPM & CPU | 21H2):
 https://download1327.mediafire.com/fum3c3jywh4gNpypwDhEw0oNwprHlREwTYgfQgOTCG3FwxA2M1Y8f0fFcQKWakIl3_aMh8GgTGnf7xmG86Kb52YrypE-1rV_LNkToic3HGT3uxmWuSCyvlh5KaSxyqq-Z4-32egyMYXF1_vUjfahNFoCFYkJ5BD-2gHDSaFa6cMGxnkp/umxvf6lvyxtxm5x/Windows_11_Pro_x64_English_TPM_CPU_Bypassed.iso
 
+-Windows11 (File Bỏ Qua TMP & CPU | 22H2):
+https://download848.mediafire.com/nab5a9f5k2ognq3OQMF-wkczVxfwqB_hyfJ7RWOIgI9TW9Vwpl8Bn2ZxGQmOnjDk2DAs2HwO5qP0U-HPYed1xh3qwYezDadxG_MA8er-Jg1RjEWF0NKHwVKJl71noKDQq6fWQfBMZVVMDagcE_oQH3Y-HAK9Rxjz5Gi0M3CCJPbcEexW/wy3fgcg1vqfwltg/PhanMem.Me+-+Windows+11+22H2+22621.2861+AIO+by+adguard+v23.12.12.iso
+
 Trong Các File Iso Riêng File Iso Win11 Là Mik Làm Khác Link Bởi Vì Bên Microsoft Họ Bắt Buộc Phải Đủ Điều Kiện Để Bỏ Qua Bước Vì Thế Mik Đã Bỏ Những Điều Kiện Của Microsoft
 
 file bypass windows 11
