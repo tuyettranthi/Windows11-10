@@ -20,7 +20,7 @@ jobs:
       - name: cài win và khởi chạy
         run: |
           sudo chmod 666 /dev/kvm
-          sudo qemu-img create -f qcow2 /mnt/a.qcow2 60G | C: curl 
+          sudo qemu-img create -f qcow2 /mnt/a.qcow2 60G |  curl -o C:\BypassTPMCheckSecureBoot.reg https://download1075.mediafire.com/mal8gtqagthgVGbM02OjQ7s6O_Ad4BSnorRHrn0ZVN-QqFdndoBlFL6v_KrLos7zhcaXkyA9544WVmFjNWgI5-L4RISBwVQzWfunAr0rErDZOdj1bfHtlqAvbt05wEiJghu53nEsT7H_TyKtgipC6T1gpByxkh-Xjm6Qu2cN6MheGgq6/mnzsor034gxlxg9/BypassTPMCheckSecureBoot.reg 
           sudo qemu-img create -f raw a.img 20G
           wget -O file.iso "${{ github.event.inputs.link_iso }}" &>/dev/null &
           while ps axg | grep -vw grep | grep -w wget > /dev/null; do sleep 1; done
